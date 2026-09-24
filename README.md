@@ -8,7 +8,7 @@
 
 <br>
 
-# achievement List 📃
+# Achievement List 📃
 <br>
 
 | badge | name | how to Get | needed Amount | 
@@ -24,7 +24,7 @@
 
 <br>
 
-# achievement skin Tone 👋
+# Achievement Skin Tone 👋
 
 #### Some achievements' appearance depends on your Emoji Skin Tone Preference.
 
@@ -40,7 +40,7 @@
 
 <br>
 
-# highlights Badges ✨
+# Highlights Badges ✨
 <br>
 
 <!-- TODO Some of these should have light mode first, and dark mode second. For consistency. - @seanpm2001 !-->
@@ -55,7 +55,7 @@
 
 <br>
 
-# badges no longer earnable ❌
+# Badges No Longer Earnable ❌
 <br>
 
 | Badge | Name | How to get | Needed amount | 
@@ -65,9 +65,9 @@
 
 <br>
 
-# [bonus] ⭐
+# [BONUS] ⭐
 
 ####
-you can also fill up your contribution graph in 5 minutes, here's the [tutorial](https://youtu.be/LlkcvvGbs9I) !
+You can also fill up your contribution graph in 5 minutes, here's the [tutorial](https://youtu.be/LlkcvvGbs9I) !
 
 <br>
