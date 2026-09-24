@@ -1,2 +1,15 @@
-# Get-Your-Github-Achievements
-Github Achievements Repo - Please Star
+# GitHub Achievements Academy 🏆
+
+## 📝 Description
+
+In 15 minutes get 7 achievements on GitHub! 
+
+## 🤓 For whom?
+For everyone who wants to learn more about the GitHub platform and get these cool badges on their GitHub profile:
+
+![image](https://user-images.githubusercontent.com/12344862/182033658-e05f3fe8-ba44-4469-a082-99af2697d641.png)
+
+
+# Let's start
+
+Start here -> [https://githubachievements.com/](https://githubachievements.com/)
